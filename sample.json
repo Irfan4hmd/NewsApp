@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 741,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brian Barrett",
+            "title": "Former US Intelligence Operatives Admit They Hacked for UAE",
+            "description": "Plus: Remote learning spyware, an AT&T bribery scandal, and more of the week's top security news.",
+            "url": "https://www.wired.com/story/us-hackers-uae-att-bribes-security-news/",
+            "urlToImage":"https://media.wired.com/photos/6144ed57c4951af374646d37/191:100/w_1280,c_limit/SEC_RU_GettyImages-1233577361.jpg" ,
+            "publishedAt": "2021-09-18T13:00:00Z",
+            "content": "This week started with Apple, Microsoft, and Google all patching a bunch of zero-day vulnerabilities, which means that you hopefully set aside a little time on Tuesday to update all of your devices. … [+3458 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Navalny allies accuse Telegram of censorship in Russian election - Reuters",
+            "description": "Allies of jailed Kremlin critic Alexei Navalny accused Telegram of censorship on Saturday after the popular messaging app followed Google and Apple <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> in restricting access to their …",
+            "url": "https://www.reuters.com/world/europe/navalny-allies-accuse-telegram-censorship-russian-election-2021-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/6zR0nkYx5UlvnOZBW7260AHtI3s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SNX3ICYGZNL2FCWPX3OIVRGW74.jpg",
+            "publishedAt": "2021-09-18T12:13:00Z",
+            "content": "MOSCOW, Sept 18 (Reuters) - Allies of jailed Kremlin critic Alexei Navalny accused Telegram of censorship on Saturday after the popular messaging app followed Google and Apple (AAPL.O) in restricting… [+3318 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Hadley Freeman",
+            "title": "Opinion writing has changed a lot since I started out. It’s time for something new | Hadley Freeman",
+            "description": "It’s ironic that at a time when this job has never been more desirable to so many, there is such an expectation of conformity of opinionFor someone who never actually wanted to be a columnist, I have written a heck of a lot of columns. I’ve been a Weekend col…",
+            "url": "https://amp.theguardian.com/commentisfree/2021/sep/18/opinion-writing-has-changed-a-lot-since-i-started-out-its-time-for-something-new",
+            "urlToImage": "https://i.guim.co.uk/img/media/dbcc6f6d30696ca6fb4400dbe44de2aa19e207e1/0_317_4940_2965/master/4940.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2c28c2868e91116f2a52d77524edaa88",
+            "publishedAt": "2021-09-18T08:00:03Z",
+            "content": "For someone who never actually wanted to be a columnist, I have written a heck of a lot of columns. Ive been a Weekend columnist for five and a half years, and before that I was in the Guardians opin… [+4885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Siva Vaidhyanathan",
+            "title": "Leaks just exposed how toxic Facebook and Instagram are to teen girls and, well, everyone",
+            "description": "The company’s own research reveals that Instagram harms teens, that it can’t control anti-vax misinformation, and that there is a secret double standard for VIPs. In short, the problem with Facebook is FacebookFor years, Facebook has faced torrents of critici…",
+            "url": "https://amp.theguardian.com/commentisfree/2021/sep/18/facebook-instagram-zuckerberg-teenagers",
+            "urlToImage": "https://i.guim.co.uk/img/media/121334a4f83c31229194f5832ab000e8a7beddb6/0_554_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4f7854b252127b1b00ec88a10140e859",
+            "publishedAt": "2021-09-18T10:21:04Z",
+            "content": "For years, Facebook has faced torrents of criticism from human rights groups and academic researchers, who raised alarms about the ways that the most pervasive digital social platform in human histor… [+6878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Yotam Ottolenghi",
+            "title": "Couscous cake and Middle Eastern mac’n’cheese: eight show-stopping new recipes from Team Ottolenghi",
+            "description": "It takes a band of global talents to create Yotam Ottolenghi’s distinctive dishes. In an exclusive extract from his latest book, he introduces some of their finest new creationsOriginally located under a railway arch in north London, built from equal parts br…",
+            "url": "https://amp.theguardian.com/food/2021/sep/18/couscous-cake-and-middle-eastern-macncheese-eight-show-stopping-new-recipes-from-team-ottolenghi",
+            "urlToImage": "https://i.guim.co.uk/img/media/a65e2c81426705c39b2f1c291b8e94c93691da95/0_1115_3577_2146/master/3577.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=28926dbb79a2f5af39847939595a7779",
+            "publishedAt": "2021-09-18T07:00:03Z",
+            "content": "Originally located under a railway arch in north London, built from equal parts brick and tahini, walls coated in olive oil and floors stained with spice, the Ottolenghi Test Kitchen started off simp… [+31292 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Isobel Asher Hamilton)",
+            "title": "Tim Cook tried to quell unrest at Apple during a meeting with staff, but only answered two questions from activist employees",
+            "description": "During an attempt to address employee unrest, Apple CEO Tim Cook answered one question about pay parity and one about the Texas abortion law, say reports.",
+            "url": "https://www.businessinsider.com/tim-cook-addresses-apple-staff-concerns-only-answers-two-questions-2021-9",
+            "urlToImage": "https://i.insider.com/6145af18a060c800184bd38e?width=1200&format=jpeg",
+            "publishedAt": "2021-09-18T10:27:24Z",
+            "content": "Tim Cook tried to quell growing employee concerns at an all-company meeting on Friday, The New York Times reported.\r\nThe Times obtained a recording of the meeting. It also spoke to activist employees… [+2524 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Laura Grace Tarpley, CEPF)",
+            "title": "Albert Cash and Savings review: Earn cash-back rewards and receive paychecks early",
+            "description": "Albert is an online financial platform with a cash account and savings account. Neither charges monthly fees, and you can earn up to 20% cash back.",
+            "url": "https://www.businessinsider.com/personal-finance/albert-cash-and-savings-account-review",
+            "urlToImage": "https://i.insider.com/613b6d73a30aeb0018b4e812?width=1200&format=jpeg",
+            "publishedAt": "2021-09-18T12:45:00Z",
+            "content": "The bottom line:Albert is a robust online platform that offers cash-back rewards, early direct deposits, and savings tools. You'll need to look elsewhere to open a joint account, though.\r\nOverall rat… [+3891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Zacks.com"
+            },
+            "author": "Sweta Jaiswal, FRM",
+            "title": "Gaming ETFs to Keep Shining Bright Amid Surging Sales",
+            "description": "The video games industry continues to see growing demand since the pandemic began last year.",
+            "url": "http://www.zacks.com/stock/news/1798076/gaming-etfs-to-keep-shining-bright-amid-surging-sales?cid=CS-ENTREPRENEUR-FT-etf_news_and_commentary-1798076",
+            "urlToImage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-386368.jpeg",
+            "publishedAt": "2021-09-18T10:00:00Z",
+            "content": "The video game industry continues to surprise investors with the consistent strength in sales amid the ongoing health crisis. The total consumer spending on gaming for eight months is up 13% year ove… [+5413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iClarified"
+            },
+            "author": null,
+            "title": "Photo Purportedly Reveals New Packaging for iPhone 13 Without Plastic Wrap - iClarified",
+            "description": "<ol><li>Photo Purportedly Reveals New Packaging for iPhone 13 Without Plastic Wrap  iClarified\r\n</li><li>These are the Best MagSafe Chargers and Accessories for the iPhone 13 series  XDA Developers\r\n</li><li>A Guided Tour of iPhone 13 & iPhone 13 Pro | Apple …",
+            "url": "https://www.iclarified.com/82556/photo-purportedly-reveals-new-packaging-for-iphone-13-without-plastic-wrap",
+            "urlToImage": "https://www.iclarified.com/images/news/82556/82556/82556-640.jpg",
+            "publishedAt": "2021-09-18T03:40:41Z",
+            "content": "AMAZON PRIME DAY 2021: View Day 2 Deals\r\nDuring its 'California Streaming' event, Apple announced it was removing the outer plastic wrap from iPhone 13 product boxes. The company estimates this will … [+664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Víctor Millán",
+            "title": "¿Estamos preparados (legal y estéticamente) para empezar a ir con gafas inteligentes por la calle?",
+            "description": "La presentación de las Ray-Ban Stories de Facebook, junto con el supuesto interés de Apple hace pensar en un relanzamiento de este gadget maldito. ¿Pero estamos preparados?",
+            "url": "https://hipertextual.com/2021/09/gafas-inteligentes-facebook-preparados",
+            "urlToImage": "https://hipertextual.com/wp-content/uploads/2021/09/zuck_gafas.png",
+            "publishedAt": "2021-09-18T06:31:00Z",
+            "content": "Las empresas tecnológicas llevan años transitando de dispositivo en dispositivo con el objetivo de ofrecer nuevas funcionalidades, y, claro está, también vender más. Al smartphone le ha salido un com… [+9044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "José María López",
+            "title": "La historia de BBK, la empresa madre de OPPO, VIVO, Realme y OnePlus",
+            "description": "Aunque China lidera varios mercados y sectores, en especial en el ámbito tecnológico, sigue siendo todo un desconocido para muchos. La diferencia de idioma, de escritura y de cultura son una barrera para el llamado mundo occidental. Y a no ser que entiendas o…",
+            "url": "https://hipertextual.com/2021/09/historia-bbk-fabricante-smartphones",
+            "urlToImage": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/09/OPPO-HQ-Shenzhen.jpg?fit=2000%2C1333&ssl=1",
+            "publishedAt": "2021-09-18T10:30:00Z",
+            "content": "Aunque China lidera varios mercados y sectores, en especial en el ámbito tecnológico, sigue siendo todo un desconocido para muchos. La diferencia de idioma, de escritura y de cultura son una barrera … [+8782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freakonomics.com"
+            },
+            "author": "Steven D. Levitt",
+            "title": "Leidy Klotz on Why the Best Solutions Involve Less — Not More (People I (Mostly) Admire Ep. 45)",
+            "description": "When we try to improve things, our first thought is often: What can we add to make this better? But Leidy, a professor of engineering, says we tend to overlook the fact that a better solution might be to take something away. He and Steve talk about examples f…",
+            "url": "https://freakonomics.com/podcast/pima-leidy-klotz/",
+            "urlToImage": "https://freakonomics.com/wp-content/uploads/2020/08/pima.fbthumbnail.630px.png",
+            "publishedAt": "2021-09-18T03:00:58Z",
+            "content": "When we try to improve things, our first thought is often: What can we add to make this better? But Leidy, a professor of engineering, says we tend to overlook the fact that a better solution might b… [+480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "打ち込んだメロディーを学習しAIが自動作曲するソニーCSL制作の無料楽曲制作アプリ「Flow Machines Mobile」レビュー",
+            "description": "ソニーコンピュータサイエンス研究所(ソニーCSL)が開発した楽曲製作アプリ「Flow Machines」のモバイル版「Flow Machines Mobile」の配信が、2021年9月9日から開始されました。ユーザーが打ち込んだメロディーを基に、AIがユーザーの望むスタイルに合わせたメロディーを自動生成してくれるとのことで、どんなものなのか実際に触れてみました。続きを読む...",
+            "url": "https://gigazine.net/news/20210918-flow-machines-mobile/",
+            "urlToImage": "https://i.gzn.jp/img/2021/09/18/flow-machines-mobile/00.png",
+            "publishedAt": "2021-09-18T09:00:00Z",
+            "content": "(CSL)Flow MachinesFlow Machines Mobile202199AI\r\nFlow Machines AI assisted music productionhttps://www.flow-machines.com/\r\nFlow Machines mobileiOSiPadiPadApp Store\r\nFlow Machines mobileSNSAppleSign in… [+259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "José Adorno",
+            "title": "Poll: What’s your favorite announcement from the iPhone 13 event?",
+            "description": "This week, Apple presented its “California Streaming” event with the new iPhone 13, Apple Watch Series 7, new base-model iPad, redesigned iPad mini, and an expansion of Apple Fitness+ to more countries. Of all the announcements, which was your favorite?\n more…",
+            "url": "http://9to5mac.com/2021/09/18/poll-whats-your-favorite-announcement-iphone-13-event/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Screen-Shot-2021-09-14-at-1.58.27-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T13:17:01Z",
+            "content": "This week, Apple presented its “California Streaming” event with the new iPhone 13, Apple Watch Series 7, new base-model iPad, redesigned iPad mini, and an expansion of Apple Fitness+ to more countri… [+3199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: Why the Genius Bar is an underrated part of the Mac experience for small businesses",
+            "description": "Apple @ Work is brought to you by Mosyle, the leader in modern mobile device management (MDM) and security for Apple enterprise and education customers. Over 22,000 organizations leverage Mosyle solutions to automate the management and security of millions of…",
+            "url": "http://9to5mac.com/2021/09/18/apple-store-repairs-for-small-businesses/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-Store.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T10:00:00Z",
+            "content": "Apple @ Work is brought to you by Mosyle, the leader in modern mobile device management (MDM) and security for Apple enterprise and education customers. Over 22,000 organizations leverage Mosyle solu… [+3527 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple promoting iPhone 13 video capabilities with new #HollywoodInYourPocket hashflag on Twitter",
+            "description": "Certainly most of the new iPhone 13 and iPhone 13 Pro features are related to the cameras, which have been upgraded with better lenses and new video capabilities — including Cinematic Mode. To promote these new features, Apple has now added a new hashflag #Ho…",
+            "url": "http://9to5mac.com/2021/09/17/apple-promoting-iphone-13-video-capabilities-with-new-hollywoodinyourpocket-hashflag-on-twitter/",
+            "urlToImage": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/Apple-iPhone-13-Hollywood-hashflag-Twitter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T04:00:05Z",
+            "content": "Certainly most of the new iPhone 13 and iPhone 13 Pro features are related to the cameras, which have been upgraded with better lenses and new video capabilities including Cinematic Mode. To promote … [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "José Adorno",
+            "title": "AppleCare+ expands to more countries, now in France, Italy, and Spain",
+            "description": "After adding AppleCare+ with Theft & Loss to the United Kingdom and Australia, Apple is expanding its concierge plan, but only as additional coverage of accidents, to France, Italy, and Spain.\n more…\nThe post AppleCare+ expands to more countries, now in Franc…",
+            "url": "http://9to5mac.com/2021/09/18/applecare-expands-to-more-countries-now-in-france-italy-and-spain/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/AppleCare.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T11:31:20Z",
+            "content": "After adding AppleCare+ with Theft &amp; Loss to the United Kingdom and Australia, Apple is expanding its concierge plan, but only as additional coverage of accidents, to France, Italy, and Spain.\r\nA… [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Stephen Hall",
+            "title": "Here are all the best iPad trade in values after new iPad mini launch",
+            "description": "In case you missed it, the new iPad 9 and iPad mini have arrived, and while the iPad mini is definitely the more exciting of the two (and arguably the most exciting launch of the week), both are great upgrades for most! We’re always trying to keep you updated…",
+            "url": "http://9to5mac.com/2021/09/18/best-ipad-trade-in-values-after-ipad-mini/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/iPad-mini-5-review-rear.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T13:34:23Z",
+            "content": "In case you missed it, the new iPad 9 and iPad mini have arrived, and while the iPad mini is definitely the more exciting of the two (and arguably the most exciting launch of the week), both are grea… [+11279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "José Adorno",
+            "title": "iPad mini 6 shipping estimates begin slipping into October and November",
+            "description": "The iPad mini 6 pre-orders opened just after the “California Streaming” event, with the first orders arriving on September 24. If you waited until today to try to pre-order one by next week, you’ll probably need to wait at least the second half October to rec…",
+            "url": "http://9to5mac.com/2021/09/18/ipad-mini-6-shipping-estimates-begin-slipping-into-october-and-november/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/ipad-mini-6-pre-order-9to5mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-09-18T13:46:20Z",
+            "content": "The iPad mini 6 pre-orders opened just after the “California Streaming” event, with the first orders arriving on September 24. If you waited until today to try to pre-order one by next week, you’ll p… [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew O'Hara)",
+            "title": "AirPods 3 release timing, iPhone popularity & more on This Week in Apple",
+            "description": "In this week's episode of \"This Week in Apple,\" we talk about Apple's iPhone 13 event, which phone may be most popular, and what other Apple products we may be seeing soon.Keep up with the last seven days of Apple News\r\nEach week, AppleInsider posts many stor…",
+            "url": "https://appleinsider.com/articles/21/09/18/airpods-3-release-timing-iphone-popularity-more-on-this-week-in-apple",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/42962-83508-42839-83257-42703-82887-42585-82619-42412-82286-41898-81261-41601-80665-41440-80397-This-Week-in-Apple-xl-xl-xl-xl-xl-xl-xl-xl.jpg",
+            "publishedAt": "2021-09-18T11:59:12Z",
+            "content": "In this week's episode of \"This Week in Apple,\" we talk about Apple's iPhone 13 event, which phone may be most popular, and what other Apple products we may be seeing soon.\r\nKeep up with the last sev… [+1569 chars]"
+        }
+    ]
+}
